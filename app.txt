@@ -1,0 +1,4 @@
+Application Name: Student Management System
+Purpose: Manage student records.
+Technology: Python
+Project Type: Software Application
